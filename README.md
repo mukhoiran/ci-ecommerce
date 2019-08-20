@@ -1,2 +1,2 @@
-# project-ecommerce
-Project - Development with CodeIgniter, Bootsrap 4, API Rajaongkir, Ion Auth
+# ci-ecommerce
+Development Ecommerce with CodeIgniter, Bootsrap 4, API Rajaongkir, Ion Auth
